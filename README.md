@@ -1,4 +1,5 @@
 # Color Specification
+color specification in opencv:</br>
 after equalizing the histogram of the input image and desired histogram,</br>
 we must relate this two equalized histograms.</br>
 for equalizing histograms we must normalize the cdf of the histograms.</br>
